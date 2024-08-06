@@ -26,4 +26,37 @@
         "returning": "Zurück zum Dock"
       }
     }
+    "state_attributes": {
+          "activity": {
+            "state": {
+              "OK_CHARGING": "Lädt",
+              "OUTSIDE_WORKING_AREA": "Außerhalb Arbeitsbereich",
+              "NO_LOOP_SIGNAL": "Kein Schleifensignal",
+              "WRONG_LOOP_SIGNAL": "Falsches Schleifensignal",
+              "WRONG_PIN_CODE": "Falscher PIN Code",
+              "TRAPPED": "Steckt fest",
+              "UPSIDE_DOWN": "Mäher auf dem Kopf",
+              "EMPTY_BATTERY": "Akku leer",
+              "TEMPORARILY_LIFTED": "Angehoben",
+              "LIFTED": "Angehoben",
+              "STUCK_IN_CHARGING_STATION": "Steckt in Ladestation fest",
+              "CHARGING_STATION_BLOCKED": "Ladestation blockiert",
+              "CUTTING_MOTOR_DRIVE_DEFECT": "Mähmotor defekt",
+              "CUTTING_SYSTEM_BLOCKED": "Mähwerk blockiert",
+              "CHARGING_SYSTEM_PROBLEM": "Ladeproblem",
+              "MOWER_TILTED": "MOWER_TILTED",
+              "ALARM_MOWER_SWITCHED_OFF": "ALARM_MOWER_SWITCHED_OFF",
+              "ALARM_MOWER_STOPPED": "ALARM_MOWER_STOPPED",
+              "ALARM_MOWER_LIFTED": "ALARM_MOWER_LIFTED",
+              "ALARM_MOWER_TILTED": "ALARM_MOWER_TILTED",
+              "ALARM_MOWER_IN_MOTION": "ALARM_MOWER_IN_MOTION",
+              "ALARM_OUTSIDE_GEOFENCE": "ALARM_OUTSIDE_GEOFENCE",
+              "SLIPPED": "SLIPPED",
+              "OFF_DISABLED": "Deaktiviert",
+              "OFF_HATCH_OPEN": "Klappe offne",
+              "OFF_HATCH_CLOSED": "Klappe geschlossen",
+              "PARKED_DAILY_LIMIT_REACHED": "Tageslimit erreicht",
+              "none": "Nichts"
+            }
+    },
   }
