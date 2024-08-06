@@ -31,6 +31,9 @@
             "state": {
               "OK_CHARGING": "Lädt",
               "OK_LEAVING": "Unterwegs",
+              "OK_CUTTING": "Mähen Zeitplan",
+              "OK_CUTTING_TIMER_OVERRIDDEN": "Mähen manuell",
+              "OK_SEARCHING": "Suche Ladestation",
               "OUTSIDE_WORKING_AREA": "Außerhalb Arbeitsbereich",
               "NO_LOOP_SIGNAL": "Kein Schleifensignal",
               "WRONG_LOOP_SIGNAL": "Falsches Schleifensignal",
@@ -45,6 +48,7 @@
               "CUTTING_MOTOR_DRIVE_DEFECT": "Mähmotor defekt",
               "CUTTING_SYSTEM_BLOCKED": "Mähwerk blockiert",
               "CHARGING_SYSTEM_PROBLEM": "Ladeproblem",
+              "COLLISION_SENSOR_PROBLEM_FRONT": "Problem Sensor vorne",
               "MOWER_TILTED": "MOWER_TILTED",
               "ALARM_MOWER_SWITCHED_OFF": "ALARM_MOWER_SWITCHED_OFF",
               "ALARM_MOWER_STOPPED": "ALARM_MOWER_STOPPED",
@@ -57,6 +61,9 @@
               "OFF_HATCH_OPEN": "Klappe offne",
               "OFF_HATCH_CLOSED": "Klappe geschlossen",
               "PARKED_DAILY_LIMIT_REACHED": "Tageslimit erreicht",
+              "PARKED_TIMER": "PARKED_TIMER",
+              "PARKED_PARK_SELECTED": "PARKED_PARK_SELECTED",
+              "PARKED_AUTOTIMER": "PARKED_AUTOTIMER",        
               "none": "Nichts"
             }
     },
