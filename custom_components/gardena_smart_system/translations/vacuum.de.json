@@ -16,7 +16,7 @@
     },
     "state": {
       "_": {
-        "cleaning": "Mäht",
+        "cleaning": "Mähen",
         "docked": "Angedockt",
         "error": "Fehler",
         "idle": "Inaktiv",
@@ -30,6 +30,7 @@
           "activity": {
             "state": {
               "OK_CHARGING": "Lädt",
+              "OK_LEAVING": "Unterwegs",
               "OUTSIDE_WORKING_AREA": "Außerhalb Arbeitsbereich",
               "NO_LOOP_SIGNAL": "Kein Schleifensignal",
               "WRONG_LOOP_SIGNAL": "Falsches Schleifensignal",
